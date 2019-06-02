@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFirstApp-Payworks</string>
+    <string name="pay">PAY</string>
+    <string name="refund">REFUND</string>
+    <string name="textview">TextView</string>
+    <string name="amount">AMOUNT</string>
+</resources>
